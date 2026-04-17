@@ -3,9 +3,11 @@
 
 - I participated in scientific research. [NCKH_YOLOv5_social_distancing](https://github.com/nyvantran/NCKH_YOLOv5_social_distancing)
 
-- 🌱 I’m currently learning **Pytorch, TensorFlow**
+- 🌱 I’m currently learning **Pytorch, langchain**
 
 - This is my IoT project [IOTD22CN2](https://github.com/nyvantran/IOTD22CN2.git)
+
+- This is my RAG chat project [ChatbotPTITHCM](https://github.com/nyvantran/ChatbotPTITHCM)
 
 - This is my snake game project by C++ [game1](https://github.com/nyvantran/game1.git)
 
