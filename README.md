@@ -6,6 +6,8 @@
   research. [NCKH_YOLOv5_social_distancing](https://github.com/nyvantran/NCKH_YOLOv5_social_distancing)
 
 - This is my RAG chat project [ChatbotPTITHCM](https://github.com/nyvantran/ChatbotPTITHCM)
+  
+- This is my RAG labor lawyer chat project[RAG_labor_lawyer_4_Ni](https://github.com/nyvantran/RAG_labor_lawyer_4_Ni)
 
 - This is my IoT project [IOTD22CN2](https://github.com/nyvantran/IOTD22CN2.git)
 
